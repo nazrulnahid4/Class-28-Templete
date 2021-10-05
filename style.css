@@ -1,0 +1,185 @@
+.photo {
+  width: 106px;
+}
+
+
+/* about section */
+
+.about {
+  background-color: #F9F9FF;
+}
+
+.about-heading {
+  height: 80vh;
+  display: flex;
+  align-items: center;
+  width: 628px;
+  margin-right: 80px;
+}
+
+.about-text {
+  margin-top: -150px;
+}
+
+.baton {
+  background-color: #8490FF;
+}
+
+.btn span {
+  font-weight: 500;
+}
+
+.about-photo img {
+  margin-left: 60px;
+}
+
+h1.mt-4 {
+  color: #474C52;
+}
+
+h6.mt-4 {
+  color: #474C52;
+  font-size: 21px;
+}
+
+p.mt-4 {
+  color: #616467;
+  font-size: 18px;
+}
+
+
+/* banner-section */
+
+.pa-dding {
+  padding-left: 99px;
+}
+
+.banner-photo img {
+  max-width: 100%;
+}
+
+.banner-photo.border.text-center.shadow-sm {
+  width: 584px;
+  margin-left: 36px;
+}
+
+
+/* client-ratio */
+
+.client-ratio {
+  background-color: #8490FF;
+  padding: 90px 0;
+}
+
+.client-ratio h2 {
+  font-weight: bold;
+  font-size: 38px;
+}
+
+.client-text {
+  margin-left: 61px;
+}
+
+.client-text1 {
+  margin-left: 112px;
+}
+
+.client-text2 {
+  margin-left: 131px;
+}
+
+.client-text3 {
+  margin-left: 80px;
+}
+
+
+/* app-today */
+
+.app-today {
+  background-color: #F9F9FF;
+  padding-bottom: 60px;
+}
+
+.app-text {
+  margin-top: 20px;
+}
+
+.app-text h1 {
+  color: #212529;
+}
+
+.app-text p {
+  color: #4B4F53;
+  font-size: 19px;
+}
+
+p.mt-4 {
+  color: #B3B3B3;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.number {
+  box-shadow: 3px 4px 17px 0 rgb(98, 120, 223, 21%);
+}
+
+
+/* program-section */
+
+.program {
+  margin-top: 132px;
+}
+
+.program-photo img {
+  width: 96px;
+  margin-top: -68px;
+  margin-left: 22px;
+}
+
+
+/* form-section */
+
+.content-section {
+  background-color: #F9F9FF;
+}
+
+.lea-d {
+  font-size: 21px;
+  color: #5F6166;
+  font-weight: 500;
+}
+
+.contnt-form-div .card {
+  box-shadow: 2.5px 4.33px 30px 0 rgba(64, 87, 191, 0.2);
+  padding: 40px;
+}
+
+.card-body h4 {
+  color: #3A3D41;
+}
+
+.contact-address {
+  margin-left: 35px;
+  margin-top: 90px;
+}
+
+.contact-address h5 {
+  font-size: 25px;
+}
+
+.contact-address p {
+  font-size: 18px;
+  color: #4B4E52;
+  font-weight: 500;
+}
+
+textarea {
+  height: 145px;
+}
+
+
+/* footer */
+
+.footer-text {
+  font-size: 19px;
+}
